@@ -12,8 +12,8 @@
 // @inject-into  page
 // @grant        none
 // @connect      raw.githubusercontent.com
-// @updateURL    https://raw.githubusercontent.com/JunHwan48/MGWeather_JH/main/JH_Weatherinfo.user.js
-// @downloadURL  https://raw.githubusercontent.com/JunHwan48/MGWeather_JH/main/JH_Weatherinfo.user.js
+// @updateURL    https://raw.githubusercontent.com/JunHwan48/MGPetFeed_JH/main/MGPetFeed_JH.user.js
+// @downloadURL  https://raw.githubusercontent.com/JunHwan48/MGPetFeed_JH/main/MGPetFeed_JH.user.js
 // ==/UserScript==
 
 (() => {
