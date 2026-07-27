@@ -825,8 +825,8 @@
         style.textContent = `
             #${ID.ui}{
                 position:fixed;
-                left:6px;
-                top:calc(50% - 144px);
+                left:3px;
+                top:calc(50% - 162px);
                 z-index:2147483647;
                 display:flex;
                 gap:4px;
